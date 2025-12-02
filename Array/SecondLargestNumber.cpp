@@ -3,6 +3,10 @@
 #include<algorithm>
 using namespace std;
 
+// Enter size of array =6
+// Enter number Of Element = 2 3 5 7 6 1
+//  Ans = 6
+
 int main(){
     int n;
     cout << "Enter size of array =";
