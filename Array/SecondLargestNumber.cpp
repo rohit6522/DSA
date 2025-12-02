@@ -14,7 +14,7 @@ int main(){
     for(int i=0;i<array.size();i++){
         cin >> array[i];
     }
-    
+            
     sort(array.begin(),array.end());
 
     int s = array[n-1];

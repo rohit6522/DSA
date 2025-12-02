@@ -2,17 +2,15 @@
 using namespace std;
 
 int main(){
-    int n;
-    cout << "Enter a number:- " << endl;
-    cin >> n;
-
-    int i=1;
-    int sum = 0;
-    while(i<=n){
-        sum+=i;
-        i++;
+    
+    int i=5;
+    while(true){
+        if(i % 7 == 0){
+            cout << i << endl;
+            break;
+        }
+        i+=5;
     }
-    cout << sum;
 
     return 0;
 }

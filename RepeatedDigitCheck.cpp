@@ -19,5 +19,5 @@ int main(){
         }
         stored/=10;
     }
-    cout << count;
+    cout << count; 
 }
