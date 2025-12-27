@@ -1,3 +1,4 @@
+
 #include<iostream>
 using namespace std;
 
@@ -10,13 +11,9 @@ int main(){
     for(int idx=0;idx<size;idx++){
         cout << arr[idx] << endl;
     }
-
-    // for each loop 
     
     for(int ech:arr){
         cout << ech << endl;
     }
     return 0;
-
-    
 }
