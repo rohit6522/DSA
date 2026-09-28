@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Java
         uses: actions/setup-java@v4
@@ -20,9 +22,33 @@ jobs:
           distribution: temurin
           java-version: "21"
 
-      - name: Compile Java files
+      - name: Compile changed Java files
         run: |
-          find . -name "*.java" -print0 | while IFS= read -r -d '' file; do
-            echo "Checking $file"
-            javac "$file"
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            base_sha="${{ github.event.pull_request.base.sha }}"
+          else
+            base_sha="${{ github.event.before }}"
+          fi
+
+          head_sha="${{ github.sha }}"
+
+          if git cat-file -e "$base_sha^{commit}" 2>/dev/null; then
+            mapfile -d '' java_files < <(
+              git diff --name-only -z "$base_sha" "$head_sha" -- '*.java'
+            )
+          else
+            mapfile -d '' java_files < <(
+              git diff-tree --no-commit-id --name-only -z -r "$head_sha" -- '*.java'
+            )
+          fi
+
+          if [[ ${#java_files[@]} -eq 0 ]]; then
+            echo "No Java files changed."
+            exit 0
+          fi
+
+          for file in "${java_files[@]}"; do
+            echo "Checking: $file"
+            dir=$(dirname "$file")
+            javac -cp "$dir" "$file"
           done
