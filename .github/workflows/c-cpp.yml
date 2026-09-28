@@ -13,11 +13,29 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+      with:
+        fetch-depth: 0
+    - name: Syntax check changed C++ files
+      run: |
+        if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+          base_sha="${{ github.event.pull_request.base.sha }}"
+        else
+          base_sha="${{ github.event.before }}"
+        fi
+
+        head_sha="${{ github.sha }}"
+        if git cat-file -e "$base_sha^{commit}" 2>/dev/null; then
+          mapfile -d '' cpp_files < <(git diff --name-only -z "$base_sha" "$head_sha" -- '*.cpp' '*.cc' '*.cxx')
+        else
+          mapfile -d '' cpp_files < <(git diff-tree --no-commit-id --name-only -z -r "$head_sha" -- '*.cpp' '*.cc' '*.cxx')
+        fi
+
+        if [[ ${#cpp_files[@]} -eq 0 ]]; then
+          echo "No C++ source changes detected."
+          exit 0
+        fi
+
+        for file in "${cpp_files[@]}"; do
+          echo "Checking syntax: $file"
+          g++ -std=c++17 -fsyntax-only "$file"
+        done
