@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit6522/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rohit6522/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
