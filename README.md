@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -40,8 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
