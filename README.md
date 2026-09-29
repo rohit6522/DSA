@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
