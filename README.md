@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
