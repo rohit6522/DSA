@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public int longestPalindrome(String s) {
         HashMap<Character,Integer>freq = new HashMap<>();
