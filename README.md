@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohit6522/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rohit6522/DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
