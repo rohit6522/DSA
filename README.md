@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/rohit6522/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -84,9 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rohit6522/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rohit6522/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
