@@ -5,17 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit6522/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/rohit6522/DSA/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/rohit6522/DSA/tree/master/0443-string-compression) |
 ## Stack
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit6522/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
