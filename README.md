@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohit6522/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/rohit6522/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit6522/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rohit6522/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rohit6522/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/rohit6522/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohit6522/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohit6522/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
