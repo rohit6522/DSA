@@ -34,6 +34,10 @@
 
 
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int[] pCount = new int[26];
