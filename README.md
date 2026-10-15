@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit6522/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rohit6522/DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rohit6522/DSA/tree/master/0443-string-compression) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohit6522/DSA/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
