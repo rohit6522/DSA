@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rohit6522/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/rohit6522/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohit6522/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rohit6522/DSA/tree/master/0867-transpose-matrix) |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
