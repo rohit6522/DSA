@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit6522/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit6522/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohit6522/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rohit6522/DSA/tree/master/0867-transpose-matrix) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
