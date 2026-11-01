@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit6522/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0216-combination-sum-iii](https://github.com/rohit6522/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohit6522/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rohit6522/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/rohit6522/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
