@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rohit6522/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rohit6522/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rohit6522/DSA/tree/master/0867-transpose-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rohit6522/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rohit6522/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rohit6522/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Greedy
 |  |
 | ------- |
