@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/rohit6522/DSA/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rohit6522/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/rohit6522/DSA/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/rohit6522/DSA/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/rohit6522/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/rohit6522/DSA/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/rohit6522/DSA/tree/master/1280-students-and-examinations) |
