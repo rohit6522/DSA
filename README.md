@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rohit6522/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit6522/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/rohit6522/DSA/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/rohit6522/DSA/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rohit6522/DSA/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/rohit6522/DSA/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
