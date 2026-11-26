@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/rohit6522/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rohit6522/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rohit6522/DSA/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rohit6522/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rohit6522/DSA/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rohit6522/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rohit6522/DSA/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rohit6522/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohit6522/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/rohit6522/DSA/tree/master/0216-combination-sum-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rohit6522/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rohit6522/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
