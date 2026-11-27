@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohit6522/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rohit6522/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/rohit6522/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rohit6522/DSA/tree/master/0867-transpose-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohit6522/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rohit6522/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/rohit6522/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rohit6522/DSA/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/rohit6522/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
 | ------- |
