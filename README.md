@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/rohit6522/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/rohit6522/DSA/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohit6522/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/rohit6522/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/rohit6522/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rohit6522/DSA/tree/master/0867-transpose-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohit6522/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rohit6522/DSA/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/rohit6522/DSA/tree/master/0605-can-place-flowers) |
 ## Bracket Sequences
 |  |
 | ------- |
